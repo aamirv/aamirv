@@ -2,7 +2,7 @@
 
 I'm Aamir Virani (he/him) - I like to work on random ideas and code for fun.  Here are a few things I've done over the past few years.
 
-You can learn more about me at [Aamir Virani's homepage](https://aamirvirani.com].
+You can learn more about me at [Aamir Virani's homepage](https://aamirvirani.com).
 
 ## Projects
 
